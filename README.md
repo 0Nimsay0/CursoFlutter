@@ -1,3 +1,3 @@
-# curso1
+# Curso
 
-A new Flutter project.
+Projeto Flutter desenvolvido durante as aulas de um Curso
